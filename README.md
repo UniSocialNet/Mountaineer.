@@ -10,3 +10,6 @@ Documentary:
 # Wiki:
 - https://en.wikipedia.org/wiki/Eight-thousander
 - https://en.wikipedia.org/wiki/Death_zone
+
+# Mountain:
+- https://en.wikipedia.org/wiki/Annapurna
